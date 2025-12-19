@@ -4,8 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Saint+George&size=40&pause=900&color=E22E57&center=true&random=true&width=435&height=70&lines=Oh+hello!+%E2%98%80%EF%B8%8F;I'm+Amy." alt="Typing SVG" />
   </a>
 </h1>
+<h3 align="center">
+  A creative developer based in Zurich 🇨🇭
+</h3>
 <div>
-🔭 I’m currently working on **an event signup system**
+🔭 I’m currently working on <b>an event signup system</b>
  
 🌱 I’m currently learning **Data Science, AI agents, Recharts**
 
@@ -13,6 +16,3 @@
 
 ⚡ Fun fact **Storks' knees aren't backwards, those are actually their ankles**
 </div>
-<h3 align="center">
-  A creative developer based in Zurich 🇨🇭
-</h3>
