@@ -9,7 +9,7 @@
 </h3>
 <div>
 🔭 I’m currently working on <b>an event signup system</b>
-
+<br>
  
 🌱 I’m currently learning **Data Science, AI agents, Recharts**
 
@@ -18,6 +18,9 @@
 ⚡ Fun fact **Storks' knees aren't backwards, those are actually their ankles**
 </div>
 <div align="center">
+  <a href="https://ikoronka.com">
+    <img src="https://ikoronka.com/ikoronka.svg"/>
+  </a>
   <a href="mailto:amelie.engelmaier@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
