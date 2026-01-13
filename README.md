@@ -15,3 +15,5 @@
 
 💬 Ask me about **Node.js, React, Typescript**
 
+![](https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/default/0-profile-details.svg)
+
