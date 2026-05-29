@@ -8,5 +8,6 @@
   A creative developer based in Zurich 🇨🇭
 </h3>
 
-I currently work at [On](https://www.on.com/en-ch/)
+Currently interning as a SWE at [On](https://www.on.com/en-ch/)
+<br>
 Feel free to reach out if you have any qs!
