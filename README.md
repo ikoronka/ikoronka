@@ -8,10 +8,5 @@
   A creative developer based in Zurich 🇨🇭
 </h3>
 
-
-🔭 I’m currently working on <b>an event signup system</b>
- 
-🌱 I’m currently learning **Data Science, AI agents, Recharts**
-
-💬 Ask me about **Node.js, React, Typescript**
-
+I currently work at [On](https://www.on.com/en-ch/)
+Feel free to reach out if you have any qs!
