@@ -11,3 +11,15 @@
 Currently interning as a SWE at [On](https://www.on.com/en-ch/)
 <br>
 Feel free to reach out if you have any qs!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/radical/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/radical/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/radical/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/radical/4-productive-time.svg" />
+</p>
