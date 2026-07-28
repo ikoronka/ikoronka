@@ -13,13 +13,13 @@ Currently interning as a SWE at [On](https://www.on.com/en-ch/)
 Feel free to reach out if you have any qs!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/brand/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/brand/0-profile-details.svg" alt="GitHub profile summary" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/brand/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/brand/2-most-commit-language.svg" />
+  <img src="./profile-summary-card-output/brand/1-repos-per-language.svg" alt="Top languages by repository count" />
+  <img src="./profile-summary-card-output/brand/2-most-commit-language.svg" alt="Top languages by commits" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/brand/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/ikoronka/ikoronka/main/profile-summary-card-output/brand/4-productive-time.svg" />
+  <img src="./profile-summary-card-output/brand/3-stats.svg" alt="GitHub contribution stats" />
+  <img src="./profile-summary-card-output/brand/4-productive-time.svg" alt="Most productive commit times" />
 </p>
